@@ -1,0 +1,39 @@
+Level: 8
+Skill: Research
+Maturity: Impacting
+Description: I can originate winning a commercial offering based on my own data and findings.
+
+Level: 7
+Skill: Research
+Maturity: Evolving
+Description: I can produce original data that results in groundbreaking new findings.
+	
+Level: 6
+Skill: Research
+Maturity: Designing
+Description: I can design and manage an original method for primary research.
+
+Level: 5
+Skill: Research
+Maturity: Analyzing
+Description: I can evaluate complex data and findings for validity, significance, and implications.
+
+Level: 4
+Skill: Research
+Maturity: Reporting
+Description: I can identify significant research findings and synthesize them in an actionable report.
+
+Level: 3
+Skill: Research
+Maturity: Managing
+Description: I can manage primary research using established methods.
+
+Level: 2
+Skill: Research
+Maturity: Hypothesizing
+Description: I can formulate a clear hypothesis and recommend methods for testing it.
+
+Level: 1
+Skill: Research
+Maturity: Gathering
+Description: I can compile relevant online research without explicit guidance.
