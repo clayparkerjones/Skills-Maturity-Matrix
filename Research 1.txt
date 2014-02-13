@@ -1,0 +1,4 @@
+Level: 1
+Skill: Research
+Maturity: Gathering
+Description: I can compile relevant online research without explicit guidance.

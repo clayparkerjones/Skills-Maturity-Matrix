@@ -1,0 +1,4 @@
+Level: 5
+Skill: Research
+Maturity: Analyzing
+Description: I can evaluate complex data and findings for validity, significance, and implications.

@@ -1,0 +1,4 @@
+Level: 2
+Skill: Research
+Maturity: Hypothesizing
+Description: I can formulate a clear hypothesis and recommend methods for testing it.

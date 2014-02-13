@@ -1,0 +1,4 @@
+Level: 8
+Skill: Research
+Maturity: Impacting
+Description: I can originate winning a commercial offering based on my own data and findings.
